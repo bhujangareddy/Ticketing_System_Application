@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.heading {
+    @apply text-3xl font-bold underline
+} 
+
+.header {
+    @apply fixed w-full h-12 flex justify-between border-b px-16 py-2 
+}
+
+.main {
+    @apply fixed top-12 bottom-12 right-0 left-0 m-2
+}
+
+.footer {
+    @apply fixed bottom-0 w-full flex justify-center border-t px-16 py-2
+}
