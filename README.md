@@ -1,5 +1,6 @@
 # Ticketing_System_Application
 Note: For better readablity switch to code tab in just above top left
+
 This project contains a Django REST Backend and a React (Vite) Frontend with Role-Based Access Control (Admin/User).
 
 Backend Setup (Django + DRF):
